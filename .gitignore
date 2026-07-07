@@ -1,0 +1,16 @@
+# Ignore common local files
+.DS_Store
+Thumbs.db
+
+# Ignore editor files
+.vscode/
+.idea/
+
+# Ignore environment and dependency files
+node_modules/
+.env
+.env.*
+
+# Ignore build output
+/dist/
+/build/
